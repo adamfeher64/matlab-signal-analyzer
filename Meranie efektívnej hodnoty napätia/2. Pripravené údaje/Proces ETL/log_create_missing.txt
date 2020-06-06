@@ -1,0 +1,10 @@
+Dátum:	11.05.2020
+Èas:	01:14
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka values_clean:	values_clean
+Krokovanie (s):			1
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:00:09.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================

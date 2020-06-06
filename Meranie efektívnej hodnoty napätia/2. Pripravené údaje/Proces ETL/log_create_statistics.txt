@@ -1,0 +1,60 @@
+Dátum:	11.05.2020
+Èas:	01:15
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka values_clean:	values_clean
+Šírka intervalu:		10
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:12:09.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================
+Dátum:	11.05.2020
+Èas:	01:27
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka values_clean:	values_clean
+Šírka intervalu:		12
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:09:54.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================
+Dátum:	11.05.2020
+Èas:	01:37
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka values_clean:	values_clean
+Šírka intervalu:		15
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:07:54.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================
+Dátum:	11.05.2020
+Èas:	01:45
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka values_clean:	values_clean
+Šírka intervalu:		20
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:06:11.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================
+Dátum:	11.05.2020
+Èas:	01:51
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka values_clean:	values_clean
+Šírka intervalu:		30
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:04:42.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================
+Dátum:	11.05.2020
+Èas:	01:56
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka values_clean:	values_clean
+Šírka intervalu:		60
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:02:29.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================

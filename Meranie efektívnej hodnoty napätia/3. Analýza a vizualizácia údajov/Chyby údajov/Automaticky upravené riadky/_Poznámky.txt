@@ -1,0 +1,11 @@
+Riadky 01 až 32 v tabuľke missing = poškodený 1-hodinový úsek
+Riadky 33 až 39 v tabuľke missing = poškodený 2-hodinový úsek
+
+Podrobnosti k niektorým riadkom v tabuľke missing:
+06 = údaje celej hodiny 1-hodinového úseku z dôsledku zmeny času neexistujú
+11 = z neznámeho dôvodu sa ocitol tento bezchybný úsek v tabuľke
+13 = z neznámeho dôvodu sa ocitol tento bezchybný úsek v tabuľke
+17 = údaje prvej hodiny 2-hodinového úseku z dôsledku zmeny času neexistujú
+20 = údaje prvej hodiny 2-hodinového úseku z dôsledku zmeny času neexistujú
+22 = z neznámeho dôvodu sa ocitol tento bezchybný úsek v tabuľke
+23 = údaje celej hodiny 1-hodinového úseku z dôsledku zmeny času neexistujú

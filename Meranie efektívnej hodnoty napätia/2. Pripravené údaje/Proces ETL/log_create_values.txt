@@ -1,0 +1,214 @@
+Dátum:	11.05.2020
+Èas:	00:41
+-----VSTUPNÉ-ARGUMENTY-----
+Cesta k prieèinku:	"C:\Users\adamf\Desktop\Úplná verzia na DVD\Meranie efektívnej hodnoty napätia\1. Pôvodné údaje"
+Krokovanie (s):		1
+Jednotky:			"V"
+---------------------------
+V prieèinku sa našlo 25 platných súborov.
+
+(2018_01.csv)
+Pripravuje sa 1. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2678045
+Poèet vyèistených údajov:	2671200
+Poèet vylúèených údajov:	6827
+Poèet poškodených údajov:	18
+
+(2018_02.csv)
+Pripravuje sa 2. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2419200
+Poèet vyèistených údajov:	2415600
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2018_03.csv)
+Pripravuje sa 3. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2674800
+Poèet vyèistených údajov:	2667600
+Poèet vylúèených údajov:	7200
+Poèet poškodených údajov:	0
+
+(2018_04.csv)
+Pripravuje sa 4. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2592000
+Poèet vyèistených údajov:	2588400
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2018_05.csv)
+Pripravuje sa 5. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2648240
+Poèet vyèistených údajov:	2638800
+Poèet vylúèených údajov:	9370
+Poèet poškodených údajov:	70
+
+(2018_06.csv)
+Pripravuje sa 6. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2592000
+Poèet vyèistených údajov:	2588400
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2018_07.csv)
+Pripravuje sa 7. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2678400
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2018_08.csv)
+Pripravuje sa 8. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2588058
+Poèet vyèistených údajov:	2577600
+Poèet vylúèených údajov:	10445
+Poèet poškodených údajov:	13
+
+(2018_09.csv)
+Pripravuje sa 9. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2592000
+Poèet vyèistených údajov:	2588400
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2018_10.csv)
+Pripravuje sa 10. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2682000
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	3600
+
+(2018_11.csv)
+Pripravuje sa 11. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2570225
+Poèet vyèistených údajov:	2563200
+Poèet vylúèených údajov:	6969
+Poèet poškodených údajov:	56
+
+(2018_12.csv)
+Pripravuje sa 12. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2678400
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_01.csv)
+Pripravuje sa 13. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2678400
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_02.csv)
+Pripravuje sa 14. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2419200
+Poèet vyèistených údajov:	2415600
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_03.csv)
+Pripravuje sa 15. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2674800
+Poèet vyèistených údajov:	2671200
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_04.csv)
+Pripravuje sa 16. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2592000
+Poèet vyèistených údajov:	2588400
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_05.csv)
+Pripravuje sa 17. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2678400
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_06.csv)
+Pripravuje sa 18. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2592000
+Poèet vyèistených údajov:	2588400
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_07.csv)
+Pripravuje sa 19. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2671242
+Poèet vyèistených údajov:	2660400
+Poèet vylúèených údajov:	10804
+Poèet poškodených údajov:	38
+
+(2019_08.csv)
+Pripravuje sa 20. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2678400
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_09.csv)
+Pripravuje sa 21. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2592000
+Poèet vyèistených údajov:	2588400
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2019_10.csv)
+Pripravuje sa 22. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2682000
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	3600
+
+(2019_11.csv)
+Pripravuje sa 23. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2580562
+Poèet vyèistených údajov:	2574000
+Poèet vylúèených údajov:	6554
+Poèet poškodených údajov:	8
+
+(2019_12.csv)
+Pripravuje sa 24. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		2678400
+Poèet vyèistených údajov:	2674800
+Poèet vylúèených údajov:	3600
+Poèet poškodených údajov:	0
+
+(2020_01.csv)
+Pripravuje sa 25. súbor z celkového poètu 25...
+Vytváranie bolo dokonèené.
+Celkový poèet údajov:		114320
+Poèet vyèistených údajov:	111600
+Poèet vylúèených údajov:	2720
+Poèet poškodených údajov:	0
+
+Vytvára sa èasová tabu¾ka èistých údajov...
+Vytvára sa èasová tabu¾ka vypustených údajov...
+Uplynutý èas: 00:33:17.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================

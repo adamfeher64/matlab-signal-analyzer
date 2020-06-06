@@ -1,0 +1,11 @@
+Dátum:	11.05.2020
+Èas:	01:14
+-----VSTUPNÉ-ARGUMENTY-----
+Tabu¾ka missing:			missing
+Tabu¾ka values_excluded:	values_excluded
+Tolerancia (h):				2
+---------------------------
+Vytvára sa tabu¾ka...
+Uplynutý èas: 00:00:12.
+Vytváranie tabu¾ky bolo úspešne dokonèené.
+===========================
